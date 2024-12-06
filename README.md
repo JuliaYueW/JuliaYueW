@@ -4,11 +4,11 @@
 ### :hammer_and_wrench: About Me :
 --->
 ### About Me :
-- 👋 Hi, I’m Julia(Yue)
-- 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 **Hi there! I’m Julia** – a data enthusiast, creative problem solver, and lifelong learner on a mission to make an impact.
+📊 **What I love**: Transforming raw data into meaningful insights that drive decisions and create change.
+🌱 **My toolkit**: Mastering Data Visualization (Tableau, Power BI), Statistical Analysis (R, Python, SQL), and the art of storytelling with data.
+🤝 **Let’s create magic with data**: From driving impactful solutions to crafting stories that inspire action, I’m all in for projects that make a difference!
+📬 **Reach out**: juliayuewang@gmail.com
 
 
 
